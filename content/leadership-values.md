@@ -16,6 +16,6 @@ tags:
 - Don’t blindly follow trends, research first if it is a good fit for your team.
 - Always do knowledge sharing with the team.
 - Create a safe place for feedback.
-- Create an agile culture: embraces change, values collaboration, and encourages experimentation.
+- Create an [[agile]] culture: embraces change, values collaboration, and encourages experimentation.
 - Promote open communication, communication can prevent or fix almost any problem.
 - Perfection is the enemy of progress. There is nothing perfect. We will always find a flaw. That’s why we don’t need perfection at the beginning of each time we do something.
