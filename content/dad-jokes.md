@@ -5,7 +5,7 @@ tags:
   - dad jokes
 ---
 
-To be a [[Kaffah]] father and husband, I should prepare dad jokes for my future wife and children. So I collect these jokes from the internet, like from the FB group called 'Menjadi Bapack-Bapack: Bagian Pengantar' and from other sources. Maybe you will need this too 😄
+To be a [[kaffah]] father and husband, I should prepare dad jokes for my future wife and children. So I collect these jokes from the internet, like from the FB group called 'Menjadi Bapack-Bapack: Bagian Pengantar' and from other sources. Maybe you will need this too 😄
 
 - Who makes the best jamu for headaches? — Ibu Profen.
 - Dulu ayah kuliah dua jurusan: malem ngambil Komputer siangnya di Hukum.
