@@ -8,11 +8,11 @@ tags:
 ---
 
 **Biography**:
-George S. Clason (1874–1957) was an American author known for his influential writings on personal finance and wealth-building. His most famous work is "The Richest Man in Babylon," a collection of parables set in ancient Babylon that teaches fundamental principles of financial management.
+George S. Clason (1874–1957) was an American author known for his influential writings on personal finance and wealth-building. His most famous work is "[[The Richest Man in Babylon]]," a collection of parables set in ancient Babylon that teaches fundamental principles of financial management.
 
 **Key Contributions**:
 
-- **"The Richest Man in Babylon"**: Published in 1926, this book is a seminal work on personal finance. It presents timeless financial wisdom through parables and stories set in ancient Babylon. The book emphasizes principles such as saving, investing, and managing money effectively.
+- **"[[The Richest Man in Babylon]]"**: Published in 1926, this book is a seminal work on personal finance. It presents timeless financial wisdom through parables and stories set in ancient Babylon. The book emphasizes principles such as saving, investing, and managing money effectively.
 - **Financial Parables**: Clason's use of storytelling and parables to convey financial lessons has made complex concepts accessible and engaging for readers of all backgrounds.
 
 **Impact**:
@@ -33,7 +33,7 @@ George S. Clason (1874–1957) was an American author known for his influential 
 
 **References**:
 
-- **Books**: "The Richest Man in Babylon" by George S. Clason.
+- **Books**: "[[The Richest Man in Babylon]]" by George S. Clason.
 - **Legacy**: Clason’s contributions to personal finance literature and his impact on modern financial education.
 - **Further Reading**: Additional resources on personal finance and wealth-building, such as "Rich Dad Poor Dad" by Robert Kiyosaki and "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko.
 
