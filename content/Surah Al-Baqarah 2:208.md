@@ -7,13 +7,13 @@ tags:
   - faith
 ---
 
-**Text**: "O you who have believed, enter into Islam completely (kaffah) and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy." (Surah Al-Baqarah 2:208)
+**Text**: "O you who have believed, enter into Islam completely (kaffah) and do not follow the footsteps of [[Satan]]. Indeed, he is to you a clear enemy." (Surah Al-Baqarah 2:208)
 
 **Translation and Interpretation**:
 
 - This verse calls upon the believers to fully embrace and commit to Islam in all aspects of their lives, rather than selectively adhering to certain parts while neglecting others.
 - The term "kaffah" emphasizes the importance of a holistic and comprehensive practice of faith.
-- The verse also warns against following Satan, who is depicted as a clear enemy to humankind, leading them away from the path of righteousness.
+- The verse also warns against following [[Satan]], who is depicted as a clear enemy to humankind, leading them away from the path of righteousness.
 
 **Contextual Background**:
 
@@ -23,7 +23,7 @@ tags:
 **Key Themes**:
 
 - **Complete Submission**: The verse stresses the necessity of complete submission to God's will and teachings, reflecting the core principle of Islam as a way of life.
-- **Satan as an Adversary**: It highlights the role of Satan as an adversary who seeks to lead believers astray, urging vigilance and adherence to divine guidance.
+- **[[Satan]] as an Adversary**: It highlights the role of [[Satan]] as an adversary who seeks to lead believers astray, urging vigilance and adherence to divine guidance.
 - **Holistic Faith**: Encourages believers to integrate their faith into all aspects of their lives, ensuring consistency and sincerity in their religious practice.
 
 **Related Concepts**:

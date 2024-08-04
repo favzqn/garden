@@ -16,7 +16,7 @@ tags:
 
 **Example**:
 
-- Quranic verse: "O you who have believed, enter into Islam completely (kaffah) and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy." ([[Surah Al-Baqarah 2:208]])
+- Quranic verse: "O you who have believed, enter into Islam completely (kaffah) and do not follow the footsteps of [[Satan]]. Indeed, he is to you a clear enemy." ([[Surah Al-Baqarah 2:208]])
 
 **Related Concepts**:
 
