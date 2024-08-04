@@ -7,7 +7,7 @@ tags:
   - personal-development
 ---
 
-**Author**: George S. Clason
+**Author**: [[George S. Clason]]
 
 **Summary**:
 "The Richest Man in Babylon" is a classic book on financial wisdom and personal finance. It presents fundamental principles of wealth building and financial management through a series of parables set in ancient Babylon. The book emphasizes timeless lessons on saving, investing, and managing money effectively.
@@ -46,6 +46,6 @@ tags:
 
 **References**:
 
-- George S. Clason's original work and its influence on modern personal finance literature.
+- [[George S. Clason]]'s original work and its influence on modern personal finance literature.
 - Related books and resources: "Rich Dad Poor Dad" by Robert Kiyosaki, "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko.
 - Financial education websites and blogs for further reading and resources on personal finance and investing.
