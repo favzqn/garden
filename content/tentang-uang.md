@@ -10,9 +10,9 @@ tags:
 
 ## Pendahuluan
 
-Akhir-akhir ini gua sedang belajar tentang uang, cara cari uang, cara ngatur uang, dan juga cara investnya. Ada beberapa buku yang gua baca, di antaranya _The Richest Man in Babylon_ oleh George S. Clason, dan _I Will Teach You to Be Rich_ oleh Ramit Sethi. Jadi, di tulisan ini gua ingin share segala sesuatu yang gua dapat dari buku-buku itu, dan implementasinya di hidup gua.
+Akhir-akhir ini gua sedang belajar tentang uang, cara cari uang, cara ngatur uang, dan juga cara investnya. Ada beberapa buku yang gua baca, di antaranya [[The Richest Man in Babylon]] oleh George S. Clason, dan _I Will Teach You to Be Rich_ oleh Ramit Sethi. Jadi, di tulisan ini gua ingin share segala sesuatu yang gua dapat dari buku-buku itu, dan implementasinya di hidup gua.
 
-## The Richest Man in Babylon
+## [[The Richest Man in Babylon]]
 
 Banyak pelajaran yang gua dapat dari buku ini. Kalau buku ini disingkat jadi beberapa kalimat, bakal jadi gini:
 
