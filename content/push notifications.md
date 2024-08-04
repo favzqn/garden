@@ -7,8 +7,6 @@ tags:
   - mobile-apps
 ---
 
-### Push Notifications
-
 **Definition**: Push notifications are messages that are sent from a server to a user's device, appearing on the user's screen even if they are not actively using the app that is sending the notification. These notifications can provide updates, reminders, promotional content, and other relevant information.
 
 **Contextual Usage**:

@@ -7,8 +7,6 @@ tags:
   - completeness
 ---
 
-### Kaffah
-
 **Definition**: The word "kaffah" (also spelled "kafah") is an Arabic term that means "complete" or "whole". It is often used in the context of practicing Islam comprehensively, implying a holistic and complete adherence to the teachings and principles of the religion.
 
 **Contextual Usage**:
@@ -33,5 +31,5 @@ tags:
 
 **References**:
 
-- Quran, [[Surah Al-Baqarah 2:208]]
+- [[Quran]], [[Surah Al-Baqarah 2:208]]
 - Discussions on comprehensive Islamic practice in [Islamic Thought and Culture].
