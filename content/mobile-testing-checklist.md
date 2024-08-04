@@ -24,7 +24,7 @@ Do the icons, and images look okay and help the user use the app?
 - [ ] Do the apps, icons, and images convey the correct info to the user?
 - [ ] Images should fit the screen
 
-### **Push notifications**
+### **[[Push notifications]]**
 
 Does the app generate and handle push notifications correctly?
 
