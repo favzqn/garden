@@ -50,7 +50,7 @@ Does the app require the correct level of permissions and the behavior around th
 
 Does the app handle different input types and allow users to enter invalid inputs?
 
-### **Boundary values**
+### [[Boundary values]]
 
 Check for value/length as per below:
 
