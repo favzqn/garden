@@ -12,7 +12,7 @@ George S. Clason (1874–1957) was an American author known for his influential 
 
 **Key Contributions**:
 
-- **"[[The Richest Man in Babylon]]"**: Published in 1926, this book is a seminal work on personal finance. It presents timeless financial wisdom through parables and stories set in ancient Babylon. The book emphasizes principles such as saving, investing, and managing money effectively.
+- **"[[The Richest Man in Babylon]]"**: Published in 1926, this book is a seminal work on personal finance. It presents timeless financial wisdom through parables and stories set in ancient Babylon. The book emphasizes principles such as saving, [[investing]], and managing money effectively.
 - **Financial Parables**: Clason's use of storytelling and parables to convey financial lessons has made complex concepts accessible and engaging for readers of all backgrounds.
 
 **Impact**:

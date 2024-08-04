@@ -56,7 +56,7 @@ Empat Ide Pokok dari buku ini:
 - **Tabungan**: 5–10%
 - **Uang yang bisa dihabiskan guilt-free**: 20–35%
 
-Diversifikasi investasi kita di beberapa instrumen: Saham, Reksa dana, Crypto. Setelah itu, diversifikasi juga di tiap kategori instrumennya.
+Diversifikasi investasi kita di beberapa instrumen: Saham, Reksa dana, [[Crypto]]. Setelah itu, diversifikasi juga di tiap kategori instrumennya.
 
 ### Pipeline Otomatis
 

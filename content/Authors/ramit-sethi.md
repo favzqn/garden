@@ -8,23 +8,23 @@ tags:
 ---
 
 **Biography**:
-Ramit Sethi is an American author, entrepreneur, and personal finance advisor. He is best known for his work in financial education, particularly through his book "I Will Teach You to Be Rich." Sethi is recognized for his practical, actionable advice on managing money, investing, and achieving financial success.
+Ramit Sethi is an American author, entrepreneur, and personal finance advisor. He is best known for his work in financial education, particularly through his book "I Will Teach You to Be Rich." Sethi is recognized for his practical, actionable advice on managing money, [[investing]], and achieving financial success.
 
 **Career**:
 
-- **Author**: Sethi's book "I Will Teach You to Be Rich," first published in 2009, offers a step-by-step guide to personal finance for young adults. It covers topics such as saving, investing, budgeting, and credit management.
+- **Author**: Sethi's book "I Will Teach You to Be Rich," first published in 2009, offers a step-by-step guide to personal finance for young adults. It covers topics such as saving, [[investing]], budgeting, and credit management.
 - **Entrepreneur**: He founded the website [I Will Teach You to Be Rich](https://www.iwillteachyoutoberich.com/), which provides resources, tools, and courses on personal finance and career development.
 - **Speaker and Educator**: Sethi frequently speaks on personal finance, entrepreneurship, and career development at various conferences and events.
 
 **Key Contributions**:
 
 - **Practical Financial Advice**: Sethi's work focuses on providing actionable, practical advice that readers can implement immediately to improve their financial situations.
-- **Automated Finances**: Advocates for automating finances to simplify money management and ensure consistent saving and investing.
+- **Automated Finances**: Advocates for automating finances to simplify money management and ensure consistent saving and [[investing]].
 - **Career Growth**: Offers guidance on increasing income through career development and entrepreneurial ventures.
 
 **Books**:
 
-- **"I Will Teach You to Be Rich"**: A comprehensive guide to personal finance that covers banking, investing, budgeting, credit management, and income growth.
+- **"I Will Teach You to Be Rich"**: A comprehensive guide to personal finance that covers banking, [[investing]], budgeting, credit management, and income growth.
 - **"The Ultimate Guide to Online Money-Making"**: Provides strategies for generating income through online ventures and digital entrepreneurship.
 
 **Impact**:
@@ -41,7 +41,7 @@ Ramit Sethi is an American author, entrepreneur, and personal finance advisor. H
 **Quotes**:
 
 - "The key to wealth is not in earning more money, but in managing it effectively."
-- "Investing is a lifelong journey; start early and let compounding work its magic."
+- "[[Investing]] is a lifelong journey; start early and let compounding work its magic."
 
 **References**:
 
