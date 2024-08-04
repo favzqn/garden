@@ -6,7 +6,7 @@ tags:
   - values
 ---
 
-- Don’t micromanage (micromanage means you want to control every detail of your team’s work, and you don’t trust them).
+- Don’t [[micromanage]] ([[micromanage]] means you want to control every detail of your team’s work, and you don’t trust them).
 - Don’t try to be a hero (you feel like you need to do everything by yourself and you think that only you can solve the problems).
 - Don’t keep information to yourself, share it with the team.
 - Don’t fear failure, take calculated risks so you are not stagnant and not missing opportunities.
