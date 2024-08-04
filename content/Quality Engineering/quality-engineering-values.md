@@ -14,7 +14,7 @@ Disclaimer: This list reflects my opinions and what I currently believe to be be
 - Invest in automation as soon as you can (priority). E2E tests are good but also beware of the testing pyramid.
 - Shift testing to the left
 - Create a good bug report: At least bug reproduce steps, screenshots/videos if possible, a clear description of actual & expected outcome, and version
-- Don't focus only on functional, but also on UI/IX, performance, security
+- Don't focus only on functional, but also on [[UI/UX]], performance, security
 - Automation Benefits:
   - Manual testing hours saved by automated tests
   - Salary savings because hiring too many manual testers
