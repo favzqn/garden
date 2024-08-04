@@ -10,7 +10,7 @@ tags:
 
 ## Pendahuluan
 
-Akhir-akhir ini gua sedang belajar tentang uang, cara cari uang, cara ngatur uang, dan juga cara investnya. Ada beberapa buku yang gua baca, di antaranya [[The Richest Man in Babylon]] oleh [[George S. Clason]], dan _I Will Teach You to Be Rich_ oleh Ramit Sethi. Jadi, di tulisan ini gua ingin share segala sesuatu yang gua dapat dari buku-buku itu, dan implementasinya di hidup gua.
+Akhir-akhir ini gua sedang belajar tentang uang, cara cari uang, cara ngatur uang, dan juga cara investnya. Ada beberapa buku yang gua baca, di antaranya [[The Richest Man in Babylon]] oleh [[George S. Clason]], dan [[I Will Teach You to Be Rich]] oleh [[Ramit Sethi]]. Jadi, di tulisan ini gua ingin share segala sesuatu yang gua dapat dari buku-buku itu, dan implementasinya di hidup gua.
 
 ## [[The Richest Man in Babylon]]
 
@@ -38,18 +38,18 @@ Beberapa tips tambahan:
 - Pastikan penghasilan masa depan dengan asuransi.
 - Hiduplah dengan 70% penghasilan kita jika kita punya hutang. Tabung 10% dan gunakan 20% untuk bayar hutang.
 
-## I Will Teach You to Be Rich
+## [[I Will Teach You to Be Rich]]
 
 Empat Ide Pokok dari buku ini:
 
 1. **Kita ga perlu jadi expert buat jadi kaya**: Tapi kita perlu mulai lebih awal.
 2. **Gunakan uang untuk merancang Rich Life kita**.
 3. **Ada batasan berapa banyak budget yang bisa kita cut**, tapi ga ada batasan berapa banyak yang bisa kita hasilkan.
-4. **“Satu-satunya hal terpenting yang dapat kita lakuin buat jadi kaya adalah mulai lebih awal.” — Ramit Sethi**
+4. **“Satu-satunya hal terpenting yang dapat kita lakuin buat jadi kaya adalah mulai lebih awal.” — [[Ramit Sethi]]**
 
 ### Conscious Spending Plan
 
-Ramit Sethi menyarankan untuk menggunakan sistem “Envelope” atau “Conscious Spending Plan”:
+[[Ramit Sethi]] menyarankan untuk menggunakan sistem “Envelope” atau “Conscious Spending Plan”:
 
 - **Bills**: 50–60% dari take-home pay
 - **Investasi**: 10%
