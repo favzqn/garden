@@ -10,7 +10,7 @@ tags:
 Disclaimer: This list reflects my opinions and what I currently believe to be best practices based on my current knowledge. Remember that opinions may vary, and it's always a good idea to seek alternative perspectives and information.
 
 - Test all the time
-- Quality is everyone’s responsibility. QA Don’t need to do sign-off (but at team level decision) Quality Engineers were tasked with ensuring that their teams understood the current state of quality for a given feature or product, helping to build the team’s confidence in their decision.
+- [[Quality]] is everyone’s responsibility. QA Don’t need to do sign-off (but at team level decision) Quality Engineers were tasked with ensuring that their teams understood the current state of [[quality]] for a given feature or product, helping to build the team’s confidence in their decision.
 - Invest in automation as soon as you can (priority). E2E tests are good but also beware of the testing pyramid.
 - Shift testing to the left
 - Create a good bug report: At least bug reproduce steps, screenshots/videos if possible, a clear description of actual & expected outcome, and version

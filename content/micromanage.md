@@ -2,9 +2,9 @@
 title: Micromanage
 draft: false
 tags:
-  - Management
-  - Leadership
-  - Workplace
+  - management
+  - leadership
+  - workplace
 ---
 
 **Definition**: To micromanage is to closely observe, control, and often excessively involve oneself in the details of the work of subordinates or team members. This management style can stifle creativity and autonomy, leading to decreased job satisfaction and productivity.

@@ -2,9 +2,9 @@
 title: Satan
 draft: false
 tags:
-  - Islam
-  - Theology
-  - Evil
+  - islam
+  - theology
+  - evil
 ---
 
 **Definition**: In Islam, Satan (known as Shaytan in Arabic) is a rebellious jinn who defied Allah's command and is considered the embodiment of evil and temptation. His primary goal is to lead humans away from the path of righteousness and obedience to Allah.

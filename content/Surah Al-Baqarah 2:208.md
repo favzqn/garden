@@ -2,8 +2,8 @@
 title: Surah Al-Baqarah 2:208
 draft: false
 tags:
-  - Quran
-  - Islam
+  - quran
+  - islam
   - faith
 ---
 

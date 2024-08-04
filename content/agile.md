@@ -2,9 +2,9 @@
 title: Agile
 draft: false
 tags:
-  - Project Management
-  - Software Development
-  - Methodology
+  - project-management
+  - software-development
+  - methodology
 ---
 
 **Definition**: Agile is a project management and software development methodology that emphasizes iterative development, collaboration, flexibility, and customer feedback. It focuses on delivering small, incremental changes rather than a complete product at the end of the project.
@@ -34,7 +34,7 @@ tags:
 
 - **Flexibility**: Agile methodologies allow teams to adapt to changes quickly.
 - **Customer Focus**: Continuous feedback ensures the product meets customer needs.
-- **Improved Quality**: Regular testing and iterative development improve software quality.
+- **Improved [[Quality]]**: Regular testing and iterative development improve software [[quality]].
 - **Team Collaboration**: Encourages close collaboration and communication among team members and stakeholders.
 
 **Challenges**:
@@ -50,7 +50,7 @@ tags:
 
 **Personal Reflections**:
 
-- Agile promotes a dynamic and responsive approach to project management, enabling teams to deliver high-quality products that meet customer expectations.
+- Agile promotes a dynamic and responsive approach to project management, enabling teams to deliver high-[[quality]] products that meet customer expectations.
 - Emphasizing collaboration and continuous improvement fosters a productive and positive work environment.
 
 **References**:

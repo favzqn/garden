@@ -2,9 +2,9 @@
 title: Quran
 draft: false
 tags:
-  - Islam
-  - Holy Scripture
-  - Revelation
+  - islam
+  - holy-scripture
+  - revelation
 ---
 
 **Definition**: The Quran is the holy book of Islam, believed to be the word of God (Allah) as revealed to the Prophet Muhammad (peace be upon him) over a period of approximately 23 years. It is written in classical Arabic and is considered the final and most complete revelation in the series of divine scriptures.
